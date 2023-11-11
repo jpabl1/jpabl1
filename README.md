@@ -6,8 +6,9 @@ He estado en varios proyectos en mi formación académica y puedo decir que me g
 
 ## Mis habilidades
 Lenguajes más usados:
-![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
-- CSS
+
+![Javascript](https://img.shields.io/badge/javascript-black?logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-black?logo=css)
 - PHP
 - TypeScript
 - SQL
