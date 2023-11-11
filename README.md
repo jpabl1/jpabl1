@@ -1,5 +1,16 @@
 ## Hola mi nombre es Juan Pablo.
 
-Soy una persona que le gusta desarrollar programas y aprender cosas nuevas. En mi camino del desarrollo me he encontrado con varios tipos de  programa, es decir Aplicaciones de Escritorio, Aplicaciones Móviles, entre otros más pero los que más me han gustado son las Aplicaciones Web.
+Soy una persona que le gusta desarrollar aplicaciones y aprender cosas nuevas. Actualmente estoy enfocado en hacer Aplicaciones Web.
 
 He estado en varios proyectos en mi formación académica y puedo decir que me gusta mucho trabajar en equipo.
+
+## Mis habilidades
+Lenguajes más usados:
+- Javascript
+- CSS
+- PHP
+- TypeScript
+- MySQL
+
+Frameworks:
+- Angular
