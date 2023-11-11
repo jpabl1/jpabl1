@@ -15,6 +15,7 @@ Lenguajes más usados:
 ![NoSQL](https://img.shields.io/badge/NoSQL-black?logo=NoSQL)
 
 Frameworks:
+
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
