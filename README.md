@@ -6,7 +6,7 @@ He estado en varios proyectos en mi formación académica y puedo decir que me g
 
 ## Mis habilidades
 Lenguajes más usados:
-- Javascript
+![Javascript](https://img.shields.io/badge/javascript-blue?logo=javascript)
 - CSS
 - PHP
 - TypeScript
