@@ -12,7 +12,7 @@ Lenguajes más usados:
 ![SQL](https://img.shields.io/badge/SQL-black?logo=SQL)
 ![NoSQL](https://img.shields.io/badge/NoSQL-black?logo=NoSQL)
 
-Frameworks:
+Frameworks y GBD's usados:
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
