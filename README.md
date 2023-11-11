@@ -10,7 +10,11 @@ Lenguajes más usados:
 - CSS
 - PHP
 - TypeScript
-- MySQL
+- SQL
+- NoSQL
 
 Frameworks:
 - Angular
+- Firebase
+- MongoDB
+- MySQL
