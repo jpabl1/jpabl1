@@ -17,4 +17,4 @@ Frameworks y GBD's usados:
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
-![MySQL](https://img.shields.io/badge/MongoDB-black?logo=MySQL)
+![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL)
