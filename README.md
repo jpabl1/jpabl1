@@ -13,9 +13,9 @@ Lenguajes más usados:
 
 Frameworks y GBD's usados:
 
-![JQuery](https://img.shields.io/badge/JQuery-black?logo=JQuery)
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![React](https://img.shields.io/badge/React-black?logo=React)
+![JQuery](https://img.shields.io/badge/JQuery-black?logo=JQuery)
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL)
