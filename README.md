@@ -9,7 +9,7 @@ Lenguajes más usados:
 ![Typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=SQL)
-!![Java](https://img.shields.io/badge/Java-black?logo=Java)
+![Java](https://img.shields.io/badge/Java-black?logo=Java)
 
 Frameworks y GBD's usados:
 
