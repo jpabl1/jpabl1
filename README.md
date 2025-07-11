@@ -22,4 +22,5 @@ Frameworks y GBD's usados:
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL)
 
 IDE's:
-Delphi 12
+
+Delphi 12, IntelliJ, NetBeans
