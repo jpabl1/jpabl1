@@ -12,7 +12,7 @@ Lenguajes más usados:
 ![Java](https://img.shields.io/badge/Java-black?logo=Java)
 ![Pascal](https://img.shields.io/badge/Pascal-black?logo=Pascal)
 
-Frameworks y GBD's usados:
+## Frameworks y GBD's usados:
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![React](https://img.shields.io/badge/React-black?logo=React)
@@ -21,7 +21,7 @@ Frameworks y GBD's usados:
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL)
 
-IDE's:
+## IDE's:
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-black?logo=VSCode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJ)
