@@ -5,8 +5,8 @@ Soy una persona que le gusta desarrollar aplicaciones y aprender cosas nuevas. A
 ## Habilidades
 Lenguajes más usados:
 
-![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![Typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
+![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=SQL)
 ![Java](https://img.shields.io/badge/Java-black?logo=Java)
