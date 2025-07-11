@@ -23,6 +23,7 @@ Frameworks y GBD's usados:
 
 IDE's:
 
-![Delphi 12](https://img.shields.io/badge/Delphi-black?logo=Delphi)
+![NetBeans](https://img.shields.io/badge/NetBeans-black?logo=NetBeans)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJ)
 ![NetBeans](https://img.shields.io/badge/NetBeans-black?logo=NetBeans)
+![Delphi 12](https://img.shields.io/badge/Delphi-black?logo=Delphi)
