@@ -23,7 +23,7 @@ Frameworks y GBD's usados:
 
 IDE's:
 
-![Visual Studio Code](https://img.shields.io/badge/vscode-black?logo=vscode)
+![Visual Studio Code](https://img.shields.io/badge/vscode-black?logo=VSCode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJ)
 ![NetBeans](https://img.shields.io/badge/NetBeans-black?logo=NetBeans)
 ![Delphi 12](https://img.shields.io/badge/Delphi-black?logo=Delphi)
