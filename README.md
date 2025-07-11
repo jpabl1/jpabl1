@@ -10,6 +10,7 @@ Lenguajes más usados:
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=SQL)
 ![Java](https://img.shields.io/badge/Java-black?logo=Java)
+![Pascal](https://img.shields.io/badge/Pascal-black?logo=Pascal)
 
 Frameworks y GBD's usados:
 
@@ -19,3 +20,6 @@ Frameworks y GBD's usados:
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL)
+
+IDE's:
+Delphi 12
