@@ -8,8 +8,6 @@ Lenguajes más usados:
 ![C#](https://img.shields.io/badge/TypeScript-black?logo=csharp)
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
-![SQL](https://img.shields.io/badge/SQL-black?logo=SQL)
-
 
 ## Frameworks usados:
 
