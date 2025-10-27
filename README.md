@@ -14,4 +14,4 @@ Lenguajes más usados:
 ## Frameworks usados:
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
-![ASP .NET](https://img.shields.io/badge/React-black?logo=aspdotnet)
+![ASP .NET](https://img.shields.io/badge/ASP.NET-black?logo=aspdotnet)
