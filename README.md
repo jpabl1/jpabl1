@@ -11,9 +11,7 @@ Lenguajes más usados:
 ![SQL](https://img.shields.io/badge/SQL-black?logo=SQL)
 
 
-## Frameworks y GBD's usados:
+## Frameworks usados:
 
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![ASP .NET](https://img.shields.io/badge/React-black?logo=aspdotnet)
-![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL)
-![Microsoft SQL 2022](https://img.shields.io/badge/MySQL-black?logo=MySQL)
