@@ -5,11 +5,13 @@ Actualmente estoy enfocado en hacer Aplicaciones Web, y he estado aprendiendo co
 ## Habilidades
 Lenguajes más usados:
 
-![C#](https://img.shields.io/badge/TypeScript-black?logo=csharp)
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
+![C#](https://img.shields.io/badge/TypeScript-black?logo=csharp)
 
-## Frameworks usados:
 
+## Frameworks y librerías usados:
+
+![JQuery](https://img.shields.io/badge/JQuery-black?logo=JQuery)
 ![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![ASP .NET](https://img.shields.io/badge/ASP.NET-black?logo=aspdotnet)
