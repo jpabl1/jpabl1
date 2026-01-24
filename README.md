@@ -1,6 +1,6 @@
 ## Hola mi nombre es Juan Pablo.
 
-Actualmente estoy enfocado en hacer Aplicaciones Web, y he estado aprendiendo como desarrollarlas con .NET, Angular y React. En mi formación académica he usado Javascript y PHP, para la creación de sistemas dentro del instituto. Haciendo uso de diseños como MVC 
+Actualmente estoy enfocado en hacer Aplicaciones Web, y he estado aprendiendo como desarrollarlas con .NET, Angular y React. En mi formación académica he usado Javascript y PHP, para la creación de sistemas dentro del instituto. Haciendo uso de diseños como MVC y Clean Code para un desarrollo bien estructurado y documentando.
 
 ## Habilidades
 Lenguajes más usados:
