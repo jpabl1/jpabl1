@@ -7,7 +7,7 @@ Lenguajes más usados:
 
 ![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
-![C#](https://img.shields.io/badge/C#-black?logo=csharp)
+![C#](https://img.shields.io/badge/CS-black?logo=csharp)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
 
 
