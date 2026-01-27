@@ -12,7 +12,7 @@ Lenguajes más usados:
 
 ## Frameworks y librerías usadss:
 
-![Angular](https://img.shields.io/badge/angular-black?logo=Angular)
+![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![.NET](https://img.shields.io/badge/NET-black?logo=dotnet)
 ![JQuery](https://img.shields.io/badge/JQuery-black?logo=JQuery)
