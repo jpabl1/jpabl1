@@ -14,10 +14,10 @@ Actualmente estoy enfocado en hacer Aplicaciones Web, y he estado aprendiendo co
 
 ## Frameworks y librerías usadss:
 
-![Angular](https://img.shields.io/badge/Angular-black?logo=Angular)
-![React](https://img.shields.io/badge/React-black?logo=react)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-black?logo=JQuery)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 
 ## GBD's:
