@@ -5,9 +5,9 @@ Actualmente estoy enfocado en hacer Aplicaciones Web, y he estado aprendiendo co
 ## Habilidades
 Lenguajes más usados:
 
+![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript)
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
-![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript)
 
 
 ## Frameworks y librerías usadss:
