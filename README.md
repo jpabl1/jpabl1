@@ -7,7 +7,7 @@ Lenguajes más usados:
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-black?logo=PHP)
-![C#](https://img.shields.io/badge/TypeScript-black?logo=csharp)
+![Typescript](https://img.shields.io/badge/Typescript-black?logo=typescript)
 
 
 ## Frameworks y librerías usadss:
